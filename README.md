@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a **Computer Science student** with a strong p
 
 ## 🔭 Current Projects
 - **Web Development with Next.js**: Exploring the powerful features of Next.js, and creating responsive and dynamic web applications.
-- **[Your Project Name]**: A brief description of another project you're working on. (Feel free to add more details here!)
 
 ## 🌱 Learning & Growth
 I’m currently diving into:
